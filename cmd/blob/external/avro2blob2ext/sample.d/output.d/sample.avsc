@@ -1,0 +1,10 @@
+{
+	"type":"record",
+	"name":"sample_table1",
+	"fields":[
+		{"name":"pid", "type":"long"},
+		{"name":"price", "type":"double"},
+		{"name":"name", "type":"string"},
+		{"name":"data", "type":"long"}
+	]
+}
